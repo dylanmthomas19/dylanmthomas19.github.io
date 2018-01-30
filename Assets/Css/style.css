@@ -1,3 +1,7 @@
 body{
-    background-image: url(../assets/images/spiration-light.png)
+    /* background-image: url("../assets/Images/spiration-light.png") */
+}
+
+h1{
+    color: blue;
 }
