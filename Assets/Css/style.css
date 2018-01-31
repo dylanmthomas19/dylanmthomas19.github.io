@@ -1,7 +1,12 @@
 body{
-    /* background-image: url("../assets/Images/spiration-light.png") */
+    background-image: url("../assets/Images/spiration-light.png");
+    color: #777777;
 }
 
-h1{
-    color: blue;
+nav{
+    float: right;
+}
+
+header{
+   float: left; 
 }
