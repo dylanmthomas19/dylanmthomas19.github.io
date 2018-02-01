@@ -5,6 +5,9 @@ body{
 
 nav{
     float: right;
+    z-index: 1;
+    background-color: aquamarine;
+    widows: 100%;
 }
 
 a:hover{
@@ -22,6 +25,11 @@ a:visited{
 
 header{
    float: left; 
+   z-index: 2;
+   width: 20%;
+   background-color: blueviolet;
+   color: black;
+   text-align: center;
 }
 
 footer{
@@ -35,23 +43,20 @@ footer{
 }
 
 #bioPic{
-    position: absolute;
+    float: left;
     top: 20px;
     left: 0px;
     height: 100px;
     width: 100px;
-    float: left;
+    
+    margin: 5px;
 }
 
 p::first-letter{
     font-size: 150%;
 }
 
-.paras{
-    position: static;
-    top: 20px;
-    left: 0px;
-}
+
 
 #para1{
     font-family: 'Lora', serif;
