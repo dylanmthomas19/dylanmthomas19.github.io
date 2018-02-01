@@ -12,7 +12,21 @@ header{
 }
 
 footer{
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     left: 0px;
+}
+
+#para1{
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 100;
+}
+
+#para2{
+    font-family: 'Oswald', sans-serif;
+    font size: 16px;
+    line-height: 24px;
+    font-weight: 50;
 }
