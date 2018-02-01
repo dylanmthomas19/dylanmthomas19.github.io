@@ -35,12 +35,22 @@ footer{
 }
 
 #bioPic{
+    position: absolute;
+    top: 20px;
+    left: 0px;
     height: 100px;
     width: 100px;
+    float: left;
 }
 
 p::first-letter{
     font-size: 150%;
+}
+
+.paras{
+    position: static;
+    top: 20px;
+    left: 0px;
 }
 
 #para1{
