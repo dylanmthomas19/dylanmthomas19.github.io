@@ -7,14 +7,40 @@ nav{
     float: right;
 }
 
+a:hover{
+    background-color: blue;
+}
+
+a:focus{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a:visited{
+    color: black;
+}
+
 header{
    float: left; 
 }
 
 footer{
     position: fixed;
-    bottom: 0px;
-    left: 0px;
+    bottom: -3px;
+    left: -3px;
+    background-color: aquamarine;
+    border: 3px;
+    color: black;
+    width: 100%;
+}
+
+#bioPic{
+    height: 100px;
+    width: 100px;
+}
+
+p::first-letter{
+    font-size: 150%;
 }
 
 #para1{
