@@ -15,11 +15,6 @@ a:hover{
     background-color: blue;
 }
 
-a:focus{
-    font-weight: bold;
-    font-size: 20px;
-}
-
 a:visited{
     color: black;
 }
@@ -57,7 +52,9 @@ p::first-letter{
     font-size: 150%;
 }
 
-
+.social{
+    float: right;
+}
 
 #para1{
     font-family: 'Lora', serif;
@@ -83,4 +80,22 @@ p::first-letter{
     position: absolute;
     left: 50px;
     top: 40px;
+}
+
+#shooter{
+    position: absolute;
+    left: 375px;
+    top: 40px;
+}
+
+#iconic{
+    position: absolute;
+    left: 50px;
+    top: 250px;
+}
+
+#strategy{
+    position: absolute;
+    left: 375px;
+    top: 250px;
 }
