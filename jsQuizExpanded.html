@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gamer or Coder?</title>
+</head>
+<body>
+    
+    <script type="text/javascript">
+       
+            var gamer = confirm("Are you a Gamer?")
+            var coder = confirm("Do you like coding?")
+        
+        if (coder === false) {
+            var newIntrst = prompt("Tell me what does interest you then...")
+        }    
+        if(gamer){
+            var fave = prompt("What's your favorite game?")
+        }
+        if (coder&&gamer){
+            document.write("You should make a "+fave+" game!")
+        }
+        else if (gamer){
+            prompt("Why is "+fave+" your favorite game?")
+            document.write("Hey, as long as you're having fun with "+fave+"! ")
+        }
+        else if (coder){
+            document.write("You like coding, too!")
+        }
+        if (newIntrst){
+            alert(newIntrst+", huh... That sounds like it could be fun...")
+            prompt("Tell me more...")
+            document.write("Thanks for telling me about "+newIntrst+"!")
+        }
+
+    </script>
+
+</body>
+</html>
