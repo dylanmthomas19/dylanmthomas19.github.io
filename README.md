@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="./assets/css/readme.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./Assets/Css/readme.css" />
 
 # dylanmthomas19.github.io
 Thank you for visiting my portfolio! 
