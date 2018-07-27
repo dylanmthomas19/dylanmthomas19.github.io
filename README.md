@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("./assets/css/readme.css"))
+<link rel="stylesheet" type="text/css" media="all" href="./assets/css/readme.css" />
 
 # dylanmthomas19.github.io
 Thank you for visiting my portfolio! 
