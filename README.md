@@ -1,5 +1,6 @@
 # dylanmthomas19.github.io
-background-image: url(./assets/images/connectwork.png)
+#slide 1
+background-image: url(assets/images/connectwork.png)
 Thank you for visiting my portfolio! 
 
 <a href="https://www.linkedin.com/in/dylanmthomas19/" target="_blank">LinkedIn Profile</a>
