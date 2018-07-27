@@ -19,7 +19,7 @@ This game was developed by my group in code bootcamp, I handled frontend JS/Funt
 
 <a href="https://dylanmthomas19.github.io/week-4-game/crystalCollector">Crystal Collector</a>
 <br> Simple JS game for early bootcamp
-<a href="https://github.com/dylanmthomas19/week-4-game/crystalCollector">Source Code</a>
+<a href="https://github.com/dylanmthomas19/week-4-game/tree/master/crystalCollector">Source Code</a>
 ![Crystal Collector Demo Image](./Assets/Images/crystalGameImage.JPG)
 
 <a href="https://luckybaldrick.github.io/Munchies">Munchies Web App</a>
