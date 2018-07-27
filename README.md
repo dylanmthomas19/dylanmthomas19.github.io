@@ -8,3 +8,4 @@ Thank you for visiting my portfolio!
 <a href="https://dylanmthomas19.github.io/IdleManaSummoner" target="_blank">Idle Mana Summoner</a>:
 <br>
 My first personally made game. Updates will come at a future date after I'm done with classes.
+![Idle Mana Summoner demo image]('./Assets/Images/IMSimage.JPG')
