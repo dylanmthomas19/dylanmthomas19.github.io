@@ -12,4 +12,4 @@ My first personally made game. Updates will come at a future date after I'm done
 
 <a href="https://incrementalfighter.herokuapp.com" target="_blank">Incremental Fighter</a>
 This game was developed by my group in code bootcamp, I handled frontend JS/Funtionality
-![Incremental Fighter Demo Image](./Assets/Images/incrementalIamge.JPG)
+![Incremental Fighter Demo Image](./Assets/Images/incrementalImage.JPG)
