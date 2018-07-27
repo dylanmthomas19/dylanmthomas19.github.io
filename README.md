@@ -1,6 +1,6 @@
+(setq markdown-css-paths '("./assets/css/readme.css"))
+
 # dylanmthomas19.github.io
-#slide 1
-background-image: url(assets/images/connectwork.png)
 Thank you for visiting my portfolio! 
 
 <a href="https://www.linkedin.com/in/dylanmthomas19/" target="_blank">LinkedIn Profile</a>
